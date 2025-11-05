@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_inversifyjs_framework_docs_site=self.webpackChunk_inversifyjs_framework_docs_site||[]).push([["1833"],{2383:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/framework/blog/welcome","unlisted":false,"date":"2024-12-24T00:00:00.000Z"}]}')}}]);
