@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_inversifyjs_framework_docs_site=self.webpackChunk_inversifyjs_framework_docs_site||[]).push([["9629"],{155:function(e){e.exports=JSON.parse('{"tags":[{"label":"Adapter","permalink":"/framework/blog/tags/adapter","description":"Posts related to Inversify adapters","count":1}]}')}}]);
