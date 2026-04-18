@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_inversifyjs_framework_docs_site=self.webpackChunk_inversifyjs_framework_docs_site||[]).push([["2959"],{8378(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"graphql"}')}}]);
