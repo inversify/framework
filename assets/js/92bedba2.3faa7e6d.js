@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_inversifyjs_framework_docs_site=self.webpackChunk_inversifyjs_framework_docs_site||[]).push([["5191"],{1596(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"config"}')}}]);
